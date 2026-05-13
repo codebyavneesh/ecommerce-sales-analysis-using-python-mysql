@@ -43,7 +43,7 @@ This project analyzes e-commerce sales data to identify key revenue trends, seas
 
 ## 🗃️ Dataset
 
-All source data is stored in the [`dataset/`](./dataset/) folder. Three CSV files are used:
+All source data is stored in the [`dataset/`]([./dataset/](https://github.com/codebyavneesh/ecommerce-sales-analysis-using-python-mysql/tree/main/ecommerce-sales-analysis/datasets)) folder. Three CSV files are used:
 
 | File | Description | Columns |
 |------|-------------|---------|
@@ -126,7 +126,7 @@ Time-series analysis using SQL date functions to extract monthly revenue — dis
 
 ## 📤 Exports
 
-Processed chart files and CSVs are saved in the [`exports/`](./exports/) folder for easy sharing and reference.
+Processed chart files and CSVs are saved in the [`exports/`]([./exports/](https://github.com/codebyavneesh/ecommerce-sales-analysis-using-python-mysql/tree/main/ecommerce-sales-analysis/exports)) folder for easy sharing and reference.
 
 ---
 
