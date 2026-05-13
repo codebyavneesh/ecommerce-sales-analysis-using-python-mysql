@@ -62,7 +62,7 @@ All source data is stored in the [`dataset/`](./dataset/) folder. Three CSV file
 
 SQL fetches product-wise total quantity from orders, grouped and sorted descending — displayed as a **bar chart**.
 
-![Top 10 Highest Selling Products](screenshots/top_10_highest_selling_product.png)
+![Top 10 Highest Selling Products](https://github.com/codebyavneesh/ecommerce-sales-analysis-using-python-mysql/blob/main/ecommerce-sales-analysis/screenshots/top_10_highest_selling_product.png)
 
 ---
 
@@ -71,7 +71,7 @@ SQL fetches product-wise total quantity from orders, grouped and sorted descendi
 
 Customer-level revenue aggregation using SQL JOIN across orders, products, and customers tables — visualized as a **bar chart**.
 
-![Top 10 Highest Spenders](screenshots/top_10_highest_spender.png)
+![Top 10 Highest Spenders](https://github.com/codebyavneesh/ecommerce-sales-analysis-using-python-mysql/blob/main/ecommerce-sales-analysis/screenshots/top_10_highest_spender.png)
 
 ---
 
@@ -80,7 +80,7 @@ Customer-level revenue aggregation using SQL JOIN across orders, products, and c
 
 Average spend per customer calculated via SQL — highlights premium/high-value buyers — shown as a **bar chart**.
 
-![Top 10 Average Spenders](screenshots/top_10_average_spender.png)
+![Top 10 Average Spenders](https://github.com/codebyavneesh/ecommerce-sales-analysis-using-python-mysql/blob/main/ecommerce-sales-analysis/screenshots/top_10_average_spender.png)
 
 ---
 
@@ -89,7 +89,7 @@ Average spend per customer calculated via SQL — highlights premium/high-value 
 
 City-wise revenue breakdown using SQL `GROUP BY` on customer location joined with order data — plotted as a **bar chart**.
 
-![Revenue of Each City](screenshots/revenue_of_each_city.png)
+![Revenue of Each City](https://github.com/codebyavneesh/ecommerce-sales-analysis-using-python-mysql/blob/main/ecommerce-sales-analysis/screenshots/revenue_of_each_city.png)
 
 ---
 
@@ -98,7 +98,7 @@ City-wise revenue breakdown using SQL `GROUP BY` on customer location joined wit
 
 Time-series analysis using SQL date functions to extract monthly revenue — displayed as a **trend chart** to spot peak and slow seasons.
 
-![Monthly Trend Analysis](screenshots/monthly_trend_analysis.png)
+![Monthly Trend Analysis](https://github.com/codebyavneesh/ecommerce-sales-analysis-using-python-mysql/blob/main/ecommerce-sales-analysis/screenshots/monthly_trend_analysis.png)
 
 ---
 
